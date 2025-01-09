@@ -48,3 +48,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `accessib
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+This theme uses the Junction font by [Caroline Hadilaksono](http://www.hadilaksono.com) & [Tyler Finck](http://www.tylerfinck.com/)\
+[Junction](https://www.theleagueofmoveabletype.com/junction) is a a humanist sans-serif, and the first open-source type project started by The League of Moveable Type. It has been updated (2014) to include additional weights (light/bold) and expanded international support. 
