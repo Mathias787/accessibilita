@@ -49,5 +49,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `accessib
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-This theme uses the Junction font by [Caroline Hadilaksono](http://www.hadilaksono.com) & [Tyler Finck](http://www.tylerfinck.com/)\
-[Junction](https://www.theleagueofmoveabletype.com/junction) is a a humanist sans-serif, and the first open-source type project started by The League of Moveable Type. It has been updated (2014) to include additional weights (light/bold) and expanded international support. 
+This theme uses the PT Sans font by Designed by ParaType\
+Copyright (c) 2010, ParaType Ltd. (http://www.paratype.com/public), with Reserved Font Names "PT Sans" and "ParaType".\
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org 

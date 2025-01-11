@@ -4,16 +4,16 @@
   {%- include head.html -%}
 
   <body>
-	<a href="#main">Skip to main content</a>
+	  <a href="#main" class="main-content-link">Skip to main content</a>
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">		
+    <main id="main" class="page-content" aria-label="Content">		
       	<div class="wrapper">
 	        {{ content }}
       	</div>
 	</main>
 
-    <!-- {%- include footer.html -%} -->
+    {% comment %} {%- include footer.html -%} {% endcomment %}
 
   </body>
 
